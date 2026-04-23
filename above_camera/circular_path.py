@@ -23,8 +23,6 @@ MY_IP = '192.168.2.208'
 r = wrapper.get_robot(MY_IP)
 
 NORM_SPEED = 2.0
-speed_left  = 0 
-speed_right = 0
 TH_PROX = 250
 
 # states
