@@ -28,8 +28,8 @@ If things do not work as expected, modify the mediamtx.yml config file (scroll t
 
 1. Go to the server folder
 
-    chmod +x install_server.sh
-    ./install_server.sh
+    chmod +x install_server_mac.sh
+    ./install_server_mac.sh
 
 ## Camera calibration
 
