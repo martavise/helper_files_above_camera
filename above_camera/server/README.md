@@ -1,9 +1,8 @@
 # Camera tracking
 
-## Server setup
+## Server setup (Ubuntu)
 
 1. Go to the server folder
-
 
     sudo apt update
     sudo apt upgrade -y
@@ -25,7 +24,12 @@ If things do not work as expected, modify the mediamtx.yml config file (scroll t
     sudo systemctl daemon-reload
     sudo systemctl restart mediamtx
 
+## Server setup (macOS)
 
+1. Go to the server folder
+
+    chmod +x install_server.sh
+    ./install_server.sh
 
 ## Camera calibration
 
