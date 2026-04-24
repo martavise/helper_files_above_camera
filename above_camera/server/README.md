@@ -33,7 +33,7 @@ If things do not work as expected, modify the mediamtx.yml config file (scroll t
 
 ## Camera calibration
 
-1. On your local computer, run the calibrate.py python script (run with the command "$ python3 calibrate.py 198.168.2.150")
+1. On your local computer, run the calibrate.py python script (run with the command "$ python3 calibrate.py 192.168.2.150")
 
 2. Capture 20 frames with changing orientations of the aruco board (press 'c' to capture)
 
